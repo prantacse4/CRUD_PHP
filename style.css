@@ -1,0 +1,155 @@
+body{
+	margin: 0;
+	padding :0;
+	font-family: Arial;
+	font-size: 20px;
+	background: #80ccff;
+	text-shadow: black;
+
+}
+.wid{
+	width: 1000px;
+	
+	
+}
+.new{
+	background: #0073e6;
+	margin-top: 40px;
+	border-radius: 5px;
+	border:2px solid white;
+	padding-bottom: 60px;
+}
+.header{padding-top:50px;}
+.header h1 {
+    align-content: center;
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background: #009933;
+    width: 484px;
+    padding-top: 16px;
+    border: 1px solid;
+    border-radius: 13px;
+}
+
+.table table{}
+
+element.style {
+}
+
+.table p {
+    text-align: center;
+    width: 215px;
+    color: white;
+    font-weight: bold;
+}
+.table h2{
+	text-align: center;
+	color: white;
+
+}
+.del {
+    font-size: 20px;
+    color: white;
+    background: red;
+    text-decoration: none;
+        margin-right: 13px;
+        margin-left: 6px;
+    height: 47px;
+    /* margin: 10px; */
+}
+.up {
+	margin-left: 6px;
+    font-size: 20px;
+    color: white;
+    background: green;
+    text-decoration: none;
+        margin-right: 13px;
+    height: 47px;
+    /* margin: 10px; */
+}
+.up:hover{
+	background: white;
+	color: black;
+}
+.del:hover{
+	background: black;
+	color: white;
+}
+.table table tr:hover{}
+.table table td{
+	padding-left:30px;
+	width:240px;
+}
+.table p{}
+.table a{}
+.table a:hover{}
+.table input {
+    height: 31px;
+    width: 239px;
+    border-radius: 6px;
+   
+}
+.btn {
+    margin-left: 32px;
+    margin-top: 60px;
+    /* padding: 10px; */
+    font-size: 22px;
+    height: 57px;
+    width: 93px;
+    color: white;
+    background: #5F9EA0;
+    border: none;
+    border-radius: 5px;
+}
+.btn2 {
+    margin-left: 32px;
+    margin-top: 60px;
+    font-size: 22px;
+    height: 57px;
+    width: 100px;
+    color: white;
+    background: #5F9EA0;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+	background:#0073e6;
+	border:1px solid white;
+}
+input:hover{
+	
+	border-style: dotted;
+}
+.addnew td {
+    height: 43px;
+    width: 141px;
+    border-radius: 5px;
+    border: 1px dotted white;
+}
+.addnew td:hover{
+	border-radius: 15px;
+	border:1px dotted black;
+}
+.addnew a {
+	margin-left: 20px;
+	font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background: #2c93e5;
+    
+}
+.addnew a:hover{
+	background:#0073e6;
+}
+#hast{
+	background: #15b6ff;
+	border-radius: 20px;
+	border:2px dotted white;
+}
+.mgs{
+	color: white;
+	padding-top: 4px;
+	padding-bottom: 10px;
+}
